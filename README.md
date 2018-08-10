@@ -1,4 +1,4 @@
-# CSV-to-JSON-converter
+# CSV-to-JSON-converter Using NodeJS
 The project contain codes that convert a CSV file containing customer data into a JSON format using NodeJS
 
 A. Why did you design your project the way you did? What difficulties did you overcome?
